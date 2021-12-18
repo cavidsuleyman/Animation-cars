@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html and css file for Animation-cars. I use here html and css tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Responsive-Contact-Form.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Animation-cars.git` <br/>
 > **STEP-2:**  enter the `Animation-cars` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
